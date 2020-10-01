@@ -1,5 +1,6 @@
 ## Assignment - 1: Bash Scripting
 #### Software Systems Development
+#### All commit done
 
 ###### Answer 1
 1.a ) `mkdir` is used for creating directory and `cd` for changing directory. `&&` is used for combining both command into one line.
